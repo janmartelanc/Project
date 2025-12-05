@@ -83,3 +83,4 @@ Gumb za odposlati svojo izbiro :
 ```html 
 <input type="text" name="ime" required>
 ```
+Pri predstavitvi projekta sem se naučil kako uporabljati GitHub, ter to kako uporabljati Brackets skupaj z Brackets Markdown Preview extension-om.
