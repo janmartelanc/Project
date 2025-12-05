@@ -6,7 +6,11 @@ Slika spletne strani :
 
 ![alt text]()
 
-Slika kode :
+Slika kode HTML:
+
+![alt text]()
+
+Slika kode CSS:
 
 ![alt text]()
 
