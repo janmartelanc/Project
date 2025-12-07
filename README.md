@@ -4,7 +4,7 @@
 
 Slika spletne strani :
 
-![alt text]()
+![alt text](https://github.com/janmartelanc/Projekt-2.-DEL-TVOJ-PRVI-REPOZITORIJ-/blob/d823893d9bd2d333832dbaaac822378ef2b63088/slike/1.PNG)
 
 
 ## Razlaga
